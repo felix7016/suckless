@@ -2,5 +2,4 @@ config.h
 *.o
 *.rej
 *.orig
-dmenu 
-stest
+st
